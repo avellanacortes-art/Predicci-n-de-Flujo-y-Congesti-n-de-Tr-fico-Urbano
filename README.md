@@ -211,7 +211,3 @@ def predict_traffic(payload: Optional[PredictionRequest] = None):
 
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error durante la inferencia: {str(e)}")
-
-
-# Instucciones para ejecutar el servidor:
-# uvicorn main:app --reload --host 0.0.0.0 --port 8000
