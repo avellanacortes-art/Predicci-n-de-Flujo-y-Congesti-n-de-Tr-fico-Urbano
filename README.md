@@ -1,2 +1,2 @@
 # Predicci-n-de-Flujo-y-Congesti-n-de-Tr-fico-Urbano
-Es un proyecto de alto impacto y completamente viable. De hecho, el modelado espacio-temporal de delitos (Predictive Policing o Crime Forecasting) es una de las áreas donde la ciencia de datos aplicada a la seguridad pública ofrece mejores resultados operativos.  
+El pronóstico espacio-temporal de tráfico es uno de los proyectos de IA predictiva más completos y vistosos para presentar en la universidad: combina un reto de Deep Learning complejo en el backend con una visualización de datos de alto impacto en el frontend.
